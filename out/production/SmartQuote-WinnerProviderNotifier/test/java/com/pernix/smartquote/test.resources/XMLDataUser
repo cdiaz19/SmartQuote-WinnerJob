@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<userInfo>
+	<number_sell>01</number_sell>
+    <price_canceled>30000.0</price_canceled>
+    <user_name>ClientePrueba</user_name>
+    <email>example@exaple.com</email>
+    <number_card>************1234</number_card>
+</userInfo>
