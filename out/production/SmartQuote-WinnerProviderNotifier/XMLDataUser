@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<userInfo>
+	<authorization>0112345</authorization>
+    <amount>30000.0</amount>
+    <card_account_name>ClientePrueba</card_account_name>
+    <card_number>************1234</card_number>
+</userInfo>
